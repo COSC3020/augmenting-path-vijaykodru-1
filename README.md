@@ -33,6 +33,8 @@ accordingly.
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
 
+The worst case time complexity of the implemented code is $\Theta(V + E)$. This is because the initialization of the queue and the visited set along with adding start node to the visited set, all of them take constant time resulting in $O(1)$. Next the loop continues until the queue is emtpy which makes sure to visit all the nodes which is given by $O(V)$. And then the inner loop goes through each node and checks the edges of that node which takes $O(E)$. In a worst case scenerio we have to traverse through every single node to ensure every node is marked visites which in total we get the worst case complexity as $\Theta(V + E)$.
+
 
 References:
 
