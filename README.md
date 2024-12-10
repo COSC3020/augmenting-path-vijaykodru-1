@@ -32,3 +32,20 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+
+References:
+
+https://www.simplilearn.com/tutorials/data-structure-tutorial/bfs-algorithm
+
+The above website gave me a good understanding of the BFS algorithm with the pseudo code for implementing it with a stating point.
+
+The following website included a video that helped  in understanding it better with theoretical exmaples.
+
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+https://www.cs.usfca.edu/~galles/visualization/BFS.html
+
+The website has always been helpful in visualizing the algorithms including the current BFS search
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
